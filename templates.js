@@ -46,6 +46,7 @@ const frontend = {
 const backend = {
   expressrest: "https://github.com/AlexMercedCoder/express-rest-template.git",
   merver: "https://github.com/AlexMercedCoder/Merver-Template.git",
+  fastify: "https://github.com/AlexMercedCoder/FastifyTemplate.git",
   koa: "https://github.com/AlexMercedCoder/KoaTemplate.git",
   polka: "https://github.com/AlexMercedCoder/polkatemplate.git",
   apollo: "https://github.com/AlexMercedCoder/ApolloServerTemplate.git",
