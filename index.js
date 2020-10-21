@@ -8,7 +8,7 @@ const chalk = require("chalk");
 const [, , btemp, ftemp] = process.argv;
 
 //Extra Template URLS
-const b = backend[btemp] ? backend[btemp] : backend["expressrest"];
+const b = backend[btemp] ? backend[btemp] : backend["express"];
 const f = frontend[ftemp] ? frontend[ftemp] : frontend["reactbasic"];
 
 spawn(`npx degit ${b} backend && npx degit ${f} frontend`).then(() => {
@@ -18,5 +18,9 @@ spawn(`npx degit ${b} backend && npx degit ${f} frontend`).then(() => {
       `MAKE SURE TO RUN "NPM INSTALL" IN BOTH THE BACKEND AND FRONTEND FOLDER`
     )
   );
-  console.log(chalk.blue.white(`Follow me @AlexMercedCoder on twitter/instagram and join the Discord & Slack communities at devNursery.com to learn about great materials and tools.`));
+  console.log(
+    chalk.blue.white(
+      `Follow me @AlexMercedCoder on twitter/instagram and join the Discord & Slack communities at devNursery.com to learn about great materials and tools.`
+    )
+  );
 });

@@ -54,6 +54,7 @@ const backend = {
     "https://github.com/AlexMercedCoder/express_socketio_template.git",
   expressmongo: "https://github.com/AlexMercedCoder/expressmongotemplate.git",
   expresspg: "https://github.com/AlexMercedCoder/expressrestpostgres.git",
+  express: "https://github.com/AlexMercedCoder/expressdotenv.git",
 };
 
 module.exports = { frontend, backend };

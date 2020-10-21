@@ -65,5 +65,6 @@ If you looking just to spinup on template at a time check out my merced-spinup t
 - expresssocket
 - expressmongo
 - expresspg
+- express
 
 #### Other
