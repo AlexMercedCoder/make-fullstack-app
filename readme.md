@@ -53,6 +53,7 @@ If you looking just to spinup on template at a time check out my merced-spinup t
 - plainwebpack
 - plainrollup
 - nextts (Next Static Site Generator with Typescript)
+- reactparcel
 
 #### Backend
 
