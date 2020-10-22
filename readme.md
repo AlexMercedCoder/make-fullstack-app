@@ -16,6 +16,19 @@ If you looking just to spinup on template at a time check out my merced-spinup t
 
 ### AVAILABLE TEMPLATES
 
+#### Backend
+
+- fastify
+- koa
+- polka
+- apollo
+- expressrest
+- merver
+- expresssocket
+- expressmongo
+- expresspg
+- express
+
 #### Frontend
 
 - react
@@ -55,17 +68,13 @@ If you looking just to spinup on template at a time check out my merced-spinup t
 - nextts (Next Static Site Generator with Typescript)
 - reactparcel
 
-#### Backend
+##### Snowpack Bundler FrontendTemplates (From Snowpacks Official Templates)
 
-- fastify
-- koa
-- polka
-- apollo
-- expressrest
-- merver
-- expresssocket
-- expressmongo
-- expresspg
-- express
-
-#### Other
+- snowpack
+- snowreact
+- snowreactts
+- snowsvelte
+- snowvue
+- snowts
+- snowlit
+- snowlitts
