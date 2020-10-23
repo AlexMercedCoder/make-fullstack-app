@@ -53,6 +53,7 @@ const frontend = {
   snowlit: "snowpackjs/snowpack/create-snowpack-app/app-template-lit-element",
   snowlitts:
     "snowpackjs/snowpack/create-snowpack-app/app-template-lit-element-typescript",
+  snowreactloaded: "git@github.com:AlexMercedCoder/showreactloaded.git",
 };
 
 const backend = {

@@ -1,6 +1,6 @@
 {
   "name": "make-fullstack-app",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Scaffold full stack applications in one command!",
   "main": "index.js",
   "scripts": {

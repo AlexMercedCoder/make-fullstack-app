@@ -67,6 +67,7 @@ If you looking just to spinup on template at a time check out my merced-spinup t
 - plainrollup
 - nextts (Next Static Site Generator with Typescript)
 - reactparcel
+- snowreactloaded
 
 ##### Snowpack Bundler FrontendTemplates (From Snowpacks Official Templates)
 
