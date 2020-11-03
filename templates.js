@@ -16,6 +16,7 @@ const frontend = {
   reactrouter: "https://github.com/AlexMercedCoder/ReactRouterTemplate.git",
   reactredux: "https://github.com/AlexMercedCoder/reactreduxtemplate.git",
   reactreducer: "https://github.com/AlexMercedCoder/reactreducertemplate.git",
+  basicreact: "https://github.com/AlexMercedCoder/react_webpack_basic.git",
   jquerywebpack: "https://github.com/AlexMercedCoder/jqeurywebpacktemplate.git",
   basichtml: "https://github.com/AlexMercedCoder/basichtmlcssjstemplate.git",
   reactts:

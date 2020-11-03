@@ -9,7 +9,7 @@ const [, , btemp, ftemp] = process.argv;
 
 //Extra Template URLS
 const b = backend[btemp] ? backend[btemp] : backend["express"];
-const f = frontend[ftemp] ? frontend[ftemp] : frontend["reactbasic"];
+const f = frontend[ftemp] ? frontend[ftemp] : frontend["basicreact"];
 
 spawn(`npx degit ${b} backend && npx degit ${f} frontend`).then(() => {
   console.log(chalk.bgCyan.black(`PROJECT SCAFFOLD COMPLETE`));
